@@ -19,7 +19,7 @@
 
 ## &nbsp;About me
 
-I am a senior electrical engineering student, passionate about creating technologies that support people and the world in meaningful ways. I care deeply about accessibility and designing systems that make everyday life safer and more intuitive. I hope to use my work to expand opportunities for others in the same way many people invested in me. Outside of work, I enjoy mentoring students and building community, playing the piano, and playing football.
+I am a first-year Computer Science PhD student, passionate about creating technologies that support people and the world in meaningful ways. I care deeply about accessibility and designing systems that make everyday life safer and more intuitive. I hope to use my work to expand opportunities for others in the same way many people invested in me. Outside of work, I enjoy mentoring students and building community, playing the piano, and playing football.
 
 ## &nbsp;Technical Skills
 
